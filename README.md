@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# ArcGIS Maps SDK components with Nuxt
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Esri DevSummit 2024
+
+Look at the [ArcGIS Maps SDK components](https://developers.arcgis.com/javascript/latest/components/) and [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
