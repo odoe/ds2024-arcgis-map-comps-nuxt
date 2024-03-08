@@ -1,8 +1,10 @@
 <script setup lang="ts">
 import { defineCustomElements } from "@arcgis/map-components/dist/loader";
+import type { ArcgisMapCustomEvent } from "@arcgis/map-components";
+
 defineCustomElements(window);
 
-function onReady(event: any) {
+function onReady(event: ArcgisMapCustomEvent<void>) {
   console.log("The map is ready", event.target);
 }
 
